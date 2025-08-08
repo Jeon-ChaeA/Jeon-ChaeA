@@ -41,7 +41,7 @@
   <img src="https://skillicons.dev/icons?i=figma" width="45" style="margin-right:10px;"/>
   <img src="https://skillicons.dev/icons?i=ai" width="45" style="margin-right:10px;"/>
   <img src="https://skillicons.dev/icons?i=ps" width="45" style="margin-right:10px;"/>
-  <img src="https://skillicons.dev/icons?i=id" width="45" style="margin-right:10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" width="45" style="margin-right:10px;"/>
 </p>
 
 
