@@ -55,10 +55,10 @@
   <a href="https://github.com/Jeon-ChaeA">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="[https://your-notion-link](https://www.notion.so/_kor-24987a30505280109cfcebf9a4ea7047?pvs=12)">
+  <a href="https://www.notion.so/_kor-24987a30505280109cfcebf9a4ea7047?pvs=12">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
-  <a href="[https://your-tistory-link](https://chaea-note.tistory.com/)">
+  <a href="https://chaea-note.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
   </a>
 </p>
