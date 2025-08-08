@@ -4,6 +4,16 @@
   프론트엔드와 백엔드를 공부하며 효율적이고 완성도 높은 서비스를 만드는 것을 목표로 합니다.
 </p>
 
+
+---
+
+## 📂 Portfolio
+<p align="center">
+  <a href="https://jeon-chaea.github.io/chaea_portfolio/">
+    <img src="https://img.shields.io/badge/포트폴리오-000000?style=flat&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ## 🛠 Skills
