@@ -67,12 +67,6 @@
   <a href="mailto:ahwon1004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.notion.so/_kor-24987a30505280109cfcebf9a4ea7047?pvs=12">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  </a>
-  <a href="https://chaea-note.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white"/>
-  </a>
 </p>
 
 <p align="center">
