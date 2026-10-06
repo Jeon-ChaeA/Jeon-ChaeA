@@ -16,7 +16,7 @@
 
 ## 📂 Portfolio
 <p align="center">
-  <a href="https://jeon-chaea.github.io/chaea_portfolio/">
+  <a href="https://jeon-chaea.github.io/portfolio-2024/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
