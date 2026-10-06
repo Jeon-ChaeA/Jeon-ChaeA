@@ -78,7 +78,3 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-<p align="center">
-  <sub>꾸준히 성장하며, 코드로 더 나은 경험을 만드는 메이커가 되겠습니다.</sub>
-</p>
