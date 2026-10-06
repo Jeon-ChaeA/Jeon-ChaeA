@@ -14,12 +14,31 @@
 
 ---
 
-## 📂 Portfolio
-<p align="center">
-  <a href="https://jeon-chaea.github.io/portfolio-2024/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-</p>
+## 📂 Featured Project
+
+<table>
+  <tr>
+    <td width="52%">
+      <a href="https://jeon-chaea.github.io/portfolio-2024/">
+        <img src="https://github.com/user-attachments/assets/53fcfd5e-6ef0-49e2-8534-db7e5c4cd2e6" width="100%" />
+      </a>
+    </td>
+    <td width="48%" valign="top">
+      <h3>Interactive Portfolio</h3>
+      <p>
+        웹사이트 전체를 풀페이지로 구성한 인터랙티브 개인 포트폴리오.<br>
+        <b>Three.js</b> 3D 애니메이션 · <b>GSAP</b> 모션 · <b>Swiper</b> 슬라이더로 구현한 몰입형 웹 경험입니다.
+      </p>
+      <p>
+        <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Three.js</code> <code>GSAP</code> <code>Swiper</code>
+      </p>
+      <p>
+        <a href="https://jeon-chaea.github.io/portfolio-2024/">🔗 Live Demo</a> ·
+        <a href="https://github.com/Jeon-ChaeA/portfolio-2024">💻 Code</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
