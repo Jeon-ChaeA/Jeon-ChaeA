@@ -44,11 +44,21 @@
 
 ## 🛠 Tech Stack
 
+<p align="center"><b>Frontend</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,react" />
 </p>
+
+<p align="center"><b>Design & Tools</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,ai,ps,vscode,github" />
+</p>
+
+<p align="center"><b>AI</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 </p>
 
 ---
